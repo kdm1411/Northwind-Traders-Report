@@ -72,7 +72,6 @@ Based on the overview, the total sales for the first half of 2015 is $469.81k. T
 
 <img width="393" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/4c099325-9762-41b0-820c-ccf200247885">
 
-
 The total number of orders received was 270, with 691 products sold.
 The most sold category is Beverages with sales of $122k. Categories like Dairy products and Meat & Poultry also follow suit showing that most customers ordered mostly beverages and edibles.
 
@@ -94,6 +93,8 @@ In the first half of 2105, there was a sharp increase in total sales in April of
 <img width="409" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/90e8bba0-91ca-44ea-830e-3745fc04b42d">
 
 The employee with the highest sales is Janet Leverling with $82k follow by Andrew Fuller with $80k
+
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/94c9380e-cb95-44bd-a878-53ec28ae5efd/ReportSection?experience=power-bi) 🤓
 
 
 ### Recomendations.
