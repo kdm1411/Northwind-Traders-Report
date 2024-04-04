@@ -7,6 +7,9 @@
 
 This data analysis project aims to provide important insight into Northwind Traders Sales Performance in the first half of 2015. By analyzing various aspects of Northwind data, we seek to identify trends, makes data driven decisions, make better operation decision and smarter decision in the second halh of 2015. Northwind Traders is a fictitious company that imports and exports food around the world.
 
+<img width="833" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/067a145b-e85d-4922-86f4-bf24ee956e15">
+
+
 ### Data Source.
 ---
 
@@ -61,9 +64,14 @@ Shipping;
 ### Data Analysis.
 ---
 
-Based on the overview, the total sales for the first half of 2015 is  $469.81k
+Based on the overview, the total sales for the first half of 2015 is $469.81k. The total number of orders received was 270, with 691 products sold.
 
 <img width="490" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/d29016b3-a825-4003-8ba6-2dc533c60fbd">
+
+
+
+<img width="393" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/4c099325-9762-41b0-820c-ccf200247885">
+
 
 The total number of orders received was 270, with 691 products sold.
 The most sold category is Beverages with sales of $122k. Categories like Dairy products and Meat & Poultry also follow suit showing that most customers ordered mostly beverages and edibles.
@@ -80,12 +88,23 @@ So far, there are 81 customers from 21 different countries. The 5 top paying cus
 <img width="415" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/99d3b80d-67cf-4eb2-aa6f-08e0af323c6b">
 
 
-In the first hald of 2105, there was a sharp increase in total sales in April of over $134k, almost 7x more than the lowest sales($19k) month which was in May.
+In the first half of 2105, there was a sharp increase in total sales in April of over $134k, almost 7x more than the lowest sales($19k) month which was in May.
 
 
 <img width="409" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/90e8bba0-91ca-44ea-830e-3745fc04b42d">
 
 The employee with the highest sales is Janet Leverling with $82k follow by Andrew Fuller with $80k
+
+
+### Recomendations.
+
+Based on the analysis, we recommend the following actions:
+- Northwind traders recorded a very poor sales in countries like Finland,Norway, Mexico, Denmark and Argentina as they remain in the bottom five in the first half of 2025. More attention should be given the listed countries in other to increase the sales in the countries.
+- Beverages, Dairy products, Meat & Poultry and Confetions categories had more purchase in the first half of 2015. The the products should be made more available in the second half of the year as it remains in the high demands from customers.
+- There was a sharp increase in sales in April with about $134k, January, February and March also had a good sales but the sales suffers a huge decline in the month of May. More promotions and markeinging strategies need to be roll out in the second half of the year to increase the sales.
+- Gifts and recognition should be given to the top customers to reward their loyalty to the business and also customers with low patronage should be encourage
+
+
 
 
 
