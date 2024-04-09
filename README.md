@@ -1,5 +1,7 @@
 # Northwind-Traders-Report - A PowerBi Project.
-![image](https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/5f82bd6f-f802-444c-b5a4-1986104775e6)
+<img width="516" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/aae19b5a-abf7-4836-9561-4edca20ff3f9">
+
+
 
 
 ### Project Overview.
@@ -7,7 +9,8 @@
 
 This data analysis project aims to provide important insight into Northwind Traders Sales Performance in the first half of 2015. By analyzing various aspects of Northwind data, we seek to identify trends, makes data driven decisions, make better operation decision and smarter decision in the second halh of 2015. Northwind Traders is a fictitious company that imports and exports food around the world.
 
-<img width="833" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/067a145b-e85d-4922-86f4-bf24ee956e15">
+<img width="697" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/056d512e-7b63-4b49-92b3-3bdf0e672b26">
+
 
 
 ### Data Source.
@@ -52,14 +55,10 @@ Customer;
 Product;
 1. What are the top 5 selling products?
 2. Which category has the most purchases?
-3. How many products have been discontinued?
 
 Customer;
 1. Who are the top 5 customers by Total sales?
 2. Which country has the most sales?
-
-Shipping;
-1. Who is the most active employee in terms of sales made?
 
 ### Data Analysis.
 ---
@@ -67,8 +66,6 @@ Shipping;
 Based on the overview, the total sales for the first half of 2015 is $469.81k. The total number of orders received was 270, with 691 products sold.
 
 <img width="490" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/d29016b3-a825-4003-8ba6-2dc533c60fbd">
-
-
 
 <img width="393" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/4c099325-9762-41b0-820c-ccf200247885">
 
@@ -89,12 +86,7 @@ So far, there are 81 customers from 21 different countries. The 5 top paying cus
 
 In the first half of 2105, there was a sharp increase in total sales in April of over $134k, almost 7x more than the lowest sales($19k) month which was in May.
 
-
-<img width="409" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/90e8bba0-91ca-44ea-830e-3745fc04b42d">
-
-The employee with the highest sales is Janet Leverling with $82k follow by Andrew Fuller with $80k
-
-You can interact with the report [here](https://app.powerbi.com/groups/me/reports/94c9380e-cb95-44bd-a878-53ec28ae5efd/ReportSection?experience=power-bi) 🤓
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/94c9380e-cb95-44bd-a878-53ec28ae5efd/ReportSection8a6b5771e0da522cd9da?experience=power-bi) 🤓
 
 
 ### Recomendations.
