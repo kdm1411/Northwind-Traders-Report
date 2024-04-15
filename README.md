@@ -9,7 +9,8 @@
 
 This data analysis project aims to provide important insight into Northwind Traders Sales Performance in the first half of 2015. By analyzing various aspects of Northwind data, we seek to identify trends, makes data driven decisions, make better operation decision and smarter decision in the second halh of 2015. Northwind Traders is a fictitious company that imports and exports food around the world.
 
-<img width="697" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/056d512e-7b63-4b49-92b3-3bdf0e672b26">
+<img width="696" alt="image" src="https://github.com/kdm1411/Northwind-Traders-Report/assets/150349346/a9a1b043-d0b0-44a4-840d-456ee37504d2">
+
 
 
 
@@ -86,7 +87,7 @@ So far, there are 81 customers from 21 different countries. The 5 top paying cus
 
 In the first half of 2105, there was a sharp increase in total sales in April of over $134k, almost 7x more than the lowest sales($19k) month which was in May.
 
-You can interact with the report [here](https://app.powerbi.com/groups/me/reports/94c9380e-cb95-44bd-a878-53ec28ae5efd/ReportSection8a6b5771e0da522cd9da?experience=power-bi) 🤓
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/94c9380e-cb95-44bd-a878-53ec28ae5efd/ReportSection?experience=power-bi) 🤓
 
 
 ### Recomendations.
